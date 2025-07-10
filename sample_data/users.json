@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@store.com",
+    "password": "hashed_dummy_password",
+    "isAdmin": true
+  },
+  {
+    "name": "Regular User",
+    "email": "user@example.com",
+    "password": "hashed_dummy_password",
+    "isAdmin": false
+  }
+]

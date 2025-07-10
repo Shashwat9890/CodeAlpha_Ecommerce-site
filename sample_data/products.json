@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Basic White T-Shirt",
+    "price": 499,
+    "category": "Clothing",
+    "description": "Comfortable cotton t-shirt",
+    "inStock": true
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "description": "Wireless over-ear headphones with noise cancellation",
+    "inStock": true
+  },
+  {
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Footwear",
+    "description": "Lightweight and durable shoes for jogging",
+    "inStock": false
+  }
+]
